@@ -40,13 +40,18 @@ This will exit the program.
 
 ## CLASSES
 class Customer(object):
+
 This is the SuperClass of Loyal_Customers(customer) and Bargain_Hunters(customer). It takes in the 
 following attributes: name = str, customerId=int, address=str and phone=str. Address and phone are 
 private.
+
 Methods
+
 Methods of this class are __str__, which prints the customer details and get/set for phone, card 
 number and address.
+
 def view_bargain_bin(bargain_bin):
+
 This method views the bargain_bin. It is available to all customers, so is a method of the Customer 
 class. It is very simply done by appending the products in the bargain_bin to a list and printing this as 
 a string. The > operator was overloaded in the product class and the .sort function is used to sort the 
