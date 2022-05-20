@@ -1,0 +1,11 @@
+1 Gameboy 1 200 True
+2 Table 2 20 False
+3 Cricket 3 500 True
+4 Chair 4 204 False
+5 Pin 5 293 False
+6 Kinder 6 482 True
+7 Horse 7 5000 True
+8 Donkey 8 300 False
+9 Wicklow 9 50000 True
+10 Rope 10 492 False
+11 Notebook 11 80 False
